@@ -1,5 +1,5 @@
 pandas
-sklearn
+scikit-learn
 LabelEncoder
 RandomForestClassifier
 train_test_split
